@@ -1,6 +1,6 @@
-#simple_shell
+# Simple Shell
 
-General Reqirements
+General Requirements
 
 
 Allowed editors: vi, vim, emacs
@@ -26,3 +26,11 @@ other features:
 * && and || logical operators
 * semicolon separator
 * limited variable expansion
+
+#This file lists all individuals who contributed work towards the simple shell project
+
+## Contributors:
+
+1. Martin Nyemba <martinnyemba@gmail.com>
+
+2. Anele Bilikwa <acehoud@gmail.com>
